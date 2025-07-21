@@ -176,6 +176,7 @@ This runs the complete test suite including:
 
 ##  System Architecture
 <img width="797" height="420" alt="image" src="https://github.com/user-attachments/assets/8c13d723-fcb9-49eb-aa6b-60c180b785b7" />
+<img width="816" height="915" alt="image" src="https://github.com/user-attachments/assets/f8fe78d5-90f4-491c-9522-5dd3552ae13c" />
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
